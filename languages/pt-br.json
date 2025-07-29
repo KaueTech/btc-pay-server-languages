@@ -1255,7 +1255,7 @@
   "Taproot": "Taproot",
   "Export the PSBT for your wallet. Sign it with your wallet and import the signed PSBT version here for finalization and broadcasting.": "Exporte o PSBT para sua carteira. Assine-o com sua carteira e importe a versão PSBT assinada aqui para finalização e transmissão.",
   "There are no payment methods available to provide refunds with for this invoice.": "Não há métodos de pagamento disponíveis para fornecer reembolsos para esta fatura.",
-  "Timestamp": "Carimbo de tempo",
+  "Timestamp": "Timestamp",
   "Disable payment button": "Desabilitar botão de pagamento",
   "Account created.": "Conta criada.",
   "A <code>POST</code> callback will be sent to the specified <code>notificationUrl</code> (for on-chain transactions when there are sufficient confirmations):": "Um callback <code>POST</code> será enviado para a <code>notificationUrl</code> especificada (para transações on-chain quando há confirmações suficientes):",
